@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Machine Learning](#Machine Learning)
 - [SQL](#sql)
 - [Python](#python)
-- [Power BI](#Power BI)
+- [Power BI](#power-bi)
 - [Katie's Guides](#katies-guides)
 
 # Machine Learning
