@@ -1,15 +1,15 @@
-# 🗺 Katie's Portfolio
+# 🗺 Jatin's Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
+- [Machine Learning](#Machine Learning)
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
+- [Power BI](#Power BI)
 - [Katie's Guides](#katies-guides)
 
-# Data Engineering
+# Machine Learning
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -42,7 +42,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Tableau
+# Power BI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
