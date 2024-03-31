@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://www.linkedin.com/in/jatinagarwal03/overlay/background-image/)
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/Jatiinagarwal/Assets/blob/main/linkedinbanner.jpg/)
 
 Hello, I'm Jatin. Data Scientist with expertise in data analysis and Preprocessing, Machine Learning Models, NLP, and GenAI. 
 
